@@ -1,0 +1,32 @@
+Day 1:
+1.	The distance between two cities (in km.) is input through the keyboard. Write a program to convert and print this distance in meters, feet, inches and centimeters.
+2.	Ramesh’s basic salary is input through the keyboard. His dearness allowance is 40% of basic salary, and house rent allowance is 20% of basic salary. Write a program to calculate his gross salary
+3.	If a five-digit number is input through the keyboard, write a program to calculate the sum of its digits. 
+        (Hint: Use the modulus operator ‘%’)
+4.	Wind chill factor is the felt air temperature on exposed skin due to wind. The wind chill temperature is always 
+        lower than the air temperature, and is calculated as per the following formula: 
+        wcf = 35.74 + 0.6215t + ( 0.4275t - 35.75 ) * v 0.16 where t is the temperature and v is the wind velocity. 
+        Write a program to receive values of t and v and calculate wind chill factor (wcf).
+5.	Two numbers are input through the keyboard into two locations C and D. Write a program to interchange the 
+        contents of C and D.
+6.	A five-digit number is entered through the keyboard. Write a program to obtain the reversed number and to
+        determine whether the original and reversed numbers are equal or not.
+7.	A certain grade of steel is graded according to the following conditions: (i) Hardness must be greater than 50 
+        (ii) Carbon content must be less than 0.7 (iii) Tensile strength must be greater than 5600. The grades are 
+        as follows: Grade is 10 if all three conditions are met, Grade is 9 if conditions (i) and (ii) are met, 
+        Grade is 8 if conditions (ii) and (iii) are met, Grade is 7 if conditions (i) and (iii) are met, Grade is 6 if
+        only one condition is met, Grade is 5 if none of the conditions are met, Write a program, which will require the
+        user to give values of hardness, carbon content and tensile strength of the steel under consideration and output 
+        the grade of the steel.
+8.	Given the length and breadth of a rectangle, write a program to find whether the area of the rectangle is greater
+        than its perimeter. For example, the area of the rectangle with length = 5 and breadth = 4 is greater than its
+        perimeter.
+Day 2:
+1.	Write a program to calculate overtime pay of 10 employees. Overtime is paid at the rate of Rs. 12.00 per hour
+        for every hour worked above 40 hours. Assume that employees do not work for fractional part of an hour.
+2.	Write a program to print out all Armstrong numbers between 1 and 500. If sum of cubes of each digit of the number
+ is equal to the number itself, then the number is called an Armstrong number. For example, 153 = ( 1 * 1 * 1 ) + ( 5 * 5 * 5 ) + ( 3 * 3 * 3 ).
+3.	Write a program to enter numbers till the user wants. At the end it should display the count of positive, negative and zeros entered.
+4.	Write a program to print all prime numbers from 1 to 300. (Hint: Use nested loops, break and continue)
+5.	Population of a town today is 100000. The population has increased steadily at the rate of 10 % per year for last 10 years. Write a program to determine the population at the end of each year in the last decade.
+6.	A positive integer is entered through the keyboard. Write a function to obtain the prime factors of this number. For example, prime factors of 24 are 2, 2, 2 and 3, whereas prime factors of 35 are 5 and 7.
